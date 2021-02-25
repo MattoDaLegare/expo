@@ -1,6 +1,6 @@
 ---
 title: Introduction to Expo
-hideTOC: true
+hideTOC: false
 ---
 
 import TerminalBlock from '~/components/plugins/TerminalBlock';
